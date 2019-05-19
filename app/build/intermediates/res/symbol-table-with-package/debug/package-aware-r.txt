@@ -1125,6 +1125,7 @@ id all
 id always
 id async
 id auto
+id backgroundColourBtn
 id barrier
 id beginning
 id blocking
@@ -1144,6 +1145,11 @@ id container
 id content
 id contentPanel
 id coordinator
+id createAvatarImageView
+id createEmailText
+id createPasswordText
+id createUserBtn
+id createUserNameText
 id custom
 id customPanel
 id decor_content_parent
@@ -1283,6 +1289,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView2
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1359,6 +1366,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_create_user
 layout activity_login
 layout activity_main
 layout app_bar_main

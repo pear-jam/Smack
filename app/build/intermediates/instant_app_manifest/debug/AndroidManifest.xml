@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="samuel.griffiths.smack.CreateUserActivity" >
+        </activity>
         <activity android:name="samuel.griffiths.smack.LoginActivity" >
         </activity>
         <activity
