@@ -24,12 +24,12 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxhdpi\\addchannelbutton.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\0cb6865248f25921d6072b2aa5973a3f\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_collapse_spec.xml.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\0cb6865248f25921d6072b2aa5973a3f\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dark10.png.flat",
@@ -160,12 +160,12 @@
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\0cb6865248f25921d6072b2aa5973a3f\\res\\animator\\design_fab_show_motion_spec.xml"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dark20.png.flat",
@@ -184,12 +184,12 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-mdpi\\dark12.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -200,12 +200,12 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-hdpi\\light24.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_light4.png.flat",
-        "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xhdpi\\light4.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dark8.png.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxhdpi\\dark8.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_light4.png.flat",
+        "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xhdpi\\light4.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_light26.png.flat",
@@ -228,12 +228,12 @@
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\0cb6865248f25921d6072b2aa5973a3f\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -256,12 +256,12 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xhdpi\\light0.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_stroke_color_selector.xml.flat",
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\0cb6865248f25921d6072b2aa5973a3f\\res\\color\\mtrl_btn_stroke_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
@@ -304,12 +304,12 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\layout-v26\\abc_screen_toolbar.xml"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dark21.png.flat",
@@ -384,12 +384,12 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxhdpi\\dark27.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dark1.png.flat",
-        "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxhdpi\\dark1.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profiledefault.png.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-hdpi\\profiledefault.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dark1.png.flat",
+        "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxhdpi\\dark1.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_light4.png.flat",
@@ -400,12 +400,12 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xhdpi\\addchannelbutton.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_light20.png.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-hdpi\\light20.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -620,12 +620,12 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxxhdpi\\light26.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\0cb6865248f25921d6072b2aa5973a3f\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\0cb6865248f25921d6072b2aa5973a3f\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dark20.png.flat",
@@ -696,12 +696,12 @@
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_light3.png.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxhdpi\\light3.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -780,12 +780,12 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxhdpi\\light15.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profiledefault.png.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-mdpi\\profiledefault.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
@@ -880,12 +880,12 @@
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\1fa0b852c3bbfeb1484215e8c70e1911\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_light26.png.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xhdpi\\light26.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dark11.png.flat",
@@ -1064,24 +1064,24 @@
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxhdpi\\dark14.png"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
         "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_addchannelbutton.png.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxxhdpi\\addchannelbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\samgr\\.gradle\\caches\\transforms-2\\files-2.1\\762eceb06e34b41bcb5dd6c5472360e8\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dark21.png.flat",
@@ -2674,6 +2674,10 @@
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_light25.png.flat",
         "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\drawable-xxhdpi\\light25.png"
+    },
+    {
+        "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",

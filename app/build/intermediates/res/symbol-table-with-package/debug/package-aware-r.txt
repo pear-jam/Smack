@@ -1193,6 +1193,10 @@ id linearLayout
 id listMode
 id list_item
 id loginBtnNavHEader
+id loginCreateUserBtn
+id loginEmailText
+id loginLoginBtn
+id loginPasswordText
 id mainChannelName
 id masked
 id message
@@ -1278,6 +1282,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1354,6 +1359,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_login
 layout activity_main
 layout app_bar_main
 layout content_main
