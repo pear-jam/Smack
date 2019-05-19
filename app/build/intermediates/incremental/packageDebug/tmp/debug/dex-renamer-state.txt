@@ -1,4 +1,4 @@
-#Sun May 19 21:41:50 CEST 2019
+#Sun May 19 22:02:08 CEST 2019
 base.0=C\:\\Users\\samgr\\AndroidStudioProjects\\Smack\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex
